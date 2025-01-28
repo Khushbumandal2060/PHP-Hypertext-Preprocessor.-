@@ -1,7 +1,15 @@
 <?php
 $a=10;
-echo $a++;
+//increment
+//echo $a++;
 
+//echo "<br/>";
+//echo "<br/>";
+//echo $a;
+
+//Decrement
+//echo --$a;
+echo $a--;
 echo "<br/>";
 echo "<br/>";
 echo $a;
