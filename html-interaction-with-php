@@ -3,6 +3,7 @@ HTML and PHP work together to create dynamic web pages. Here’s how they intera
 1. PHP is a Server-Side Language, HTML is a Client-Side Language
 HTML is used to structure web pages and is interpreted by the browser.
 PHP runs on the server, processes data, and generates dynamic HTML.
+
 2. Embedding PHP in HTML
 PHP code can be placed inside an HTML file using <?php ... ?>.
 When a user visits the page, the server executes PHP first and then sends the resulting HTML to the browser.
