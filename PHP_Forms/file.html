@@ -4,6 +4,11 @@
     <title>Upload File</title>
 </head>
 <body>
-    <form action="./file.php"
+    <form action="./file.php" method="post" enctype="multipart/form-data">
+        <input type="file" name="fileUpload" id="fileUpload"/>
+        <br/>
+        <br/>
+        <button>Upload</button>
+    </form>
 </body>
 </html>
